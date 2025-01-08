@@ -8,7 +8,7 @@ This repo includes snippets and projects in multiple programming languages. Feel
 ## 🚀 About Me
 - 🎓 Passionate about coding and learning new technologies
 - 💡 Exploring innovative solutions through programming
-- 🧠 Favorite stack: **Python**, **JavaScript**, and **C++**
+- 🧠 Favorite stack: **Python**, **JavaScript**, **MachineLearnning** and **HTML CSS PHP**
 
 ---
 
