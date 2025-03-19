@@ -1,18 +1,20 @@
-# 🌟 Welcome to My Programming Playground! 🌟
+# 🌟 **Welcome to My Programming Playground!** 🌟
+
+![Welcome Image](https://img2.pic.in.th/pic/c9dd0f2cdbd11e5960c3c1dc37949075.jpg)
 
 Hi there! 👋 Welcome to my repository where I experiment and showcase my programming projects.  
 This repo includes snippets and projects in multiple programming languages. Feel free to explore and contribute!
 
 ---
 
-## 🚀 About Me
-- 🎓 Passionate about coding and learning new technologies
+## 🚀 **About Me**
+- 🎓 **Passionate about coding** and learning new technologies
 - 💡 Exploring innovative solutions through programming
-- 🧠 Favorite stack: **Python**, **JavaScript**, **MachineLearnning** and **HTML CSS PHP**
+- 🧠 **Favorite stack**: **Python**, **JavaScript**, **Machine Learning**, **HTML**, **CSS**, **PHP**
 
 ---
 
-## 📂 Table of Contents
+## 📂 **Table of Contents**
 1. [Languages](#languages)
 2. [Projects](#projects)
 3. [How to Contribute](#how-to-contribute)
@@ -20,31 +22,31 @@ This repo includes snippets and projects in multiple programming languages. Feel
 
 ---
 
-## 🌍 Languages
+## 🌍 **Languages**
 
-| Language   | Description                     | Sample Project |
-|------------|---------------------------------|----------------|
-| Python     | For AI, Machine Learning, and backend development | [🧠 Neural Network](#) |
-| JavaScript | Frontend magic and interactivity | [🌐 Website](#) |
-| C++        | High-performance computing      | [🔢 Algorithms](#) |
-| Java       | Building cross-platform apps    | [📱 Android App](#) |
-| HTML & CSS | Crafting beautiful web pages    | [🎨 Portfolio](#) |
+| **Language**   | **Description**                     | **Sample Project** |
+|----------------|-------------------------------------|--------------------|
+| Python         | For AI, Machine Learning, and backend development | [🧠 Neural Network](#) |
+| JavaScript     | Frontend magic and interactivity    | [🌐 Website](#) |
+| C++            | High-performance computing          | [🔢 Algorithms](#) |
+| Java           | Building cross-platform apps        | [📱 Android App](#) |
+| HTML & CSS     | Crafting beautiful web pages        | [🎨 Portfolio](#) |
 
 ---
 
-## 🛠️ Projects
+## 🛠️ **Projects**
 
-### 1. **[Neural Network](#)**
+### 1. **[Neural Network](#)**  
 A Python project that demonstrates the basics of neural networks.  
 ![Python](https://img.shields.io/badge/-Python-blue)
 
-### 2. **[Interactive Portfolio](#)**
+### 2. **[Interactive Portfolio](#)**  
 A beautiful portfolio built using HTML, CSS, and JavaScript.  
 ![HTML](https://img.shields.io/badge/-HTML-orange) ![CSS](https://img.shields.io/badge/-CSS-blue) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
 
 ---
 
-## 🤝 How to Contribute
+## 🤝 **How to Contribute**
 
 1. Fork the repository.
 2. Clone the repository:  
