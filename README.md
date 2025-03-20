@@ -85,15 +85,3 @@ A beautiful portfolio built using HTML, CSS, and JavaScript.
 </p>
 
 ---
-
-## 🤝 **How to Contribute**
-1. Fork this repository
-2. Create a new branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Commit your changes (`git commit -m 'Add some amazing feature'`)
-5. Push to the branch (`git push origin feature/amazing-feature`)
-6. Open a Pull Request
-
----
-
-⭐️ If you like what you see, don't forget to give this repo a star! ⭐️
