@@ -10,38 +10,6 @@
 
 ---
 
-## 📂 **Table of Contents**
-1. [Languages](#languages)
-2. [Projects](#projects)
-3. [How to Contribute](#how-to-contribute)
-4. [Contact Me](#contact-me)
-
----
-
-## 🌍 **Languages**
-| **Language** | **Description** | **Sample Project** |
-|----------------|-------------------------------------|-------------------|
-| Python | For AI, Machine Learning, and backend development | [🧠 Neural Network](#) |
-| JavaScript | Frontend magic and interactivity | [🌐 Website](#) |
-| C++ | High-performance computing | [🔢 Algorithms](#) |
-| Java | Building cross-platform apps | [📱 Android App](#) |
-| HTML & CSS | Crafting beautiful web pages | [🎨 Portfolio](#) |
-
----
-
-## 🛠️ **Projects**
-### 1. **[Neural Network](#)**
-A Python project that demonstrates the basics of neural networks.
-![Python](https://img.shields.io/badge/-Python-blue)
-
-### 2. **[Interactive Portfolio](#)**
-A beautiful portfolio built using HTML, CSS, and JavaScript.
-![HTML](https://img.shields.io/badge/-HTML-orange)
-![CSS](https://img.shields.io/badge/-CSS-blue)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-
----
-
 ## 💻 **Languages and Tools:**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
