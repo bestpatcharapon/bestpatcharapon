@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bestpatcharapon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="495">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpatcharapon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="425">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpatcharapon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="395">
 </p>
 
 ---
