@@ -52,21 +52,3 @@
 </p>
 
 ---
-
-## 📊 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krit-hype&show_icons=true&theme=tokyonight&count_private=true&hide=issues" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krit-hype&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📝 **Summary Card (with Grade)**
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krit-hype&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krit-hype&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krit-hype&theme=tokyonight&utcOffset=7" />
-</p>
