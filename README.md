@@ -1,17 +1,15 @@
-# 🌟 Welcome to My Programming 🌟
+# 🌟 **Welcome to My Programming** 🌟
 
 ![Welcome Image](https://img2.pic.in.th/pic/c9dd0f2cdbd11e5960c3c1dc37949075.jpg)
 
-## 🚀 About Me
-
-- 🎓 Passionate about coding and learning new technologies  
+## 🚀 **About Me**
+- 🎓 **Passionate about coding** and learning new technologies  
 - 💡 Exploring innovative solutions through programming  
 - 🧠 **Favorite stack**: **Python**, **JavaScript**, **Machine Learning**, **HTML**, **CSS**, **PHP**
 
 ---
 
-## 💻 Languages and Tools
-
+## 💻 **Languages and Tools:**
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
@@ -45,8 +43,7 @@
 
 ---
 
-## 📱 Contact Me
-
+## 📱 **Contact Me**
 <p align="center">
   <a href="https://www.linkedin.com/in/patcharapon-yoriya-153459357/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://www.youtube.com/@bestpj6139"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
@@ -55,20 +52,3 @@
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krit-hype&show_icons=true&theme=tokyonight&hide=issues&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krit-hype&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 📝 Summary Card (with Grade)
-
-<p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krit-hype&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=krit-hype&theme=tokyonight" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=krit-hype&theme=tokyonight&utcOffset=7" />
-</p>
