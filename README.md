@@ -3,8 +3,8 @@
 ![Welcome Image](https://img2.pic.in.th/pic/c9dd0f2cdbd11e5960c3c1dc37949075.jpg)
 
 ## 🚀 **About Me!!**
-- 🎓 **Passionate about coding** and learning new technologies  
-- 💡 Exploring innovative solutions through programming  
+- 🎓 **Passionate about coding** and learning new technologies
+- 💡 Exploring innovative solutions through programming
 - 🧠 **Favorite stack**: **Python**, **JavaScript**, **Machine Learning**, **HTML**, **CSS**, **PHP**
 
 ---
@@ -41,8 +41,7 @@
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bestpatcharapon&show_icons=true&theme=radical&hide_border=true&random=1" alt="GitHub Stats" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpatcharapon&layout=compact&theme=radical&hide_border=true&random=1" alt="Top Languages" height="180">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bestpatcharapon&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
