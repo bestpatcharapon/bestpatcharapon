@@ -41,12 +41,8 @@
 ## 📈 **GitHub Stats**
 
 <p align="center">
-  <a href="https://github.com/bestpatcharapon">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=bestpatcharapon&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/bestpatcharapon">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpatcharapon&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=bestpatcharapon&show_icons=true&theme=radical&hide_border=true&random=1" alt="GitHub Stats" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestpatcharapon&layout=compact&theme=radical&hide_border=true&random=1" alt="Top Languages" height="180">
 </p>
 
 ---
