@@ -42,7 +42,10 @@
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=bestpatcharapon&theme=radical&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=bestpatcharapon&show_icons=true&theme=radical&hide_border=true" />
 </p>
+
 
 
 ---
