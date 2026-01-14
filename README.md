@@ -40,8 +40,9 @@
 
 ## 📈 **GitHub Stats**
 
-![GitHub followers](https://img.shields.io/github/followers/bestpatcharapon?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/bestpatcharapon?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/bestpatcharapon?style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/bestpatcharapon?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public%20Repos-Active-success?style=for-the-badge)
 
 
 
