@@ -5,7 +5,7 @@
 ## 🚀 **About Me!!**
 - 🎓 **Passionate about coding** and learning new technologies
 - 💡 Exploring innovative solutions through programming
-- 🧠 **Favorite stack**: **Python**, **JavaScript**, **Machine Learning**, **HTML**, **CSS**, **PHP**
+- 🧠 **Favorite stack**: **Python**, **JavaScript**, **Machine Learning**, **HTML**, **CSS**, **PHP**, **Ruby 0n Rails**
 
 ---
 
