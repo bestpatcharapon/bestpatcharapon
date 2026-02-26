@@ -3,13 +3,12 @@
 ![Welcome Image](https://img2.pic.in.th/pic/c9dd0f2cdbd11e5960c3c1dc37949075.jpg)
 
 # 🚀 About Me
-
 🎓 Passionate about coding & learning new technologies  
 🧪 Test Engineer (Manual Testing)  
 💡 Focused on software quality & problem-solving  
 
 ## 🛠 Tech Stack
-Python | JavaScript | HTML | CSS | PHP | Ruby on Rails | Machine Learning
+Python | JavaScript | HTML | CSS | PHP | Ruby on Rails | Machine Learning | React
 
 ---
 
