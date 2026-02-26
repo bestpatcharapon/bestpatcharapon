@@ -2,14 +2,14 @@
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-0077B5?style=for-the-badge&logo=link&logoColor=white)](https://ruby-railsdocker.onrender.com/)
 ![Welcome Image](https://img2.pic.in.th/pic/c9dd0f2cdbd11e5960c3c1dc37949075.jpg)
 
-🚀 About Me!!
-🎓 Passionate about Software Quality & Testing
-🔍 Currently working as a Test Engineer (Manual Testing)
-🧪 Experienced in writing Test Cases, Test Scenarios, Bug Reports, and UAT support
-🧭 Strong understanding of SDLC & STLC
-💡 Collaborate closely with developers to ensure high-quality and reliable systems
-🧠 Technical background in: Python, JavaScript, HTML, CSS, PHP, Ruby on Rails
-📊 Interested in expanding toward Automation Testing & AI-driven testing tools
+# 🚀 About Me
+
+🎓 Passionate about coding & learning new technologies  
+🧪 Test Engineer (Manual Testing)  
+💡 Focused on software quality & problem-solving  
+
+## 🛠 Tech Stack
+Python | JavaScript | HTML | CSS | PHP | Ruby on Rails | Machine Learning
 
 ---
 
