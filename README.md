@@ -1,5 +1,6 @@
 # 🌟 **Hi Patcharapon Yoriya (Best)** 🌟
 [![Portfolio](https://img.shields.io/badge/My_Portfolio-0077B5?style=for-the-badge&logo=link&logoColor=white)](https://ruby-railsdocker.onrender.com/)
+[![CV](https://img.shields.io/badge/My_CV-0077B5?style=for-the-badge&logo=link&logoColor=white)](https://jumpshare.com/s/QEjk7fWR6jPitNRtWZHB)
 ![Welcome Image](https://img2.pic.in.th/pic/c9dd0f2cdbd11e5960c3c1dc37949075.jpg)
 
 # 🚀 About Me
